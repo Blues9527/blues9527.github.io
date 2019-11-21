@@ -1,8 +1,11 @@
 # Site settings
 title: Blues
-SEOTitle: Blues的个人博客 | Blues Blog
+SEOTitle: Blues的个人博客 | Blues 
+subtitle: 记录学习，记录成长
 header-img: img/post-bg-desk.jpg
 email: qq945358676@163.com
+author: Blues
+language: zh-CN
 description: "记录学习，记录成长"
 keyword: "Blues, Java, Kotlin, Flutter, Android, 基础, python, 面试"
 url: "http://blues9527.github.io"          # your host, for absolute URL
